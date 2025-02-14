@@ -19,10 +19,6 @@ This repository contains the Music School Database project for the KTH IV1351 Da
 
 - SQL: Used for implementing database schema, queries, and data manipulation for Tasks 2 and 3 using **Astah**
 
-**🤝 Collaboration**
-
-_This project was completed in collaboration with two other students._
-
 **📊 Conceptual Model Diagram**
 _The provided diagram models the following entities and relationships:_
 
@@ -50,3 +46,8 @@ _The provided diagram models the following entities and relationships:_
 
 **📈 Task 1: Conceptual Model**
 <img width="900" alt="Conceptual Model" src="https://github.com/user-attachments/assets/d173ed8f-f27c-411f-8ad7-b8bc1782bf5c" />
+
+**🤝 Collaboration**
+
+**_This project was completed in collaboration with two other students._**
+
